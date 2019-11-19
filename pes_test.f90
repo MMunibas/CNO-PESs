@@ -3,7 +3,6 @@ use callpot1
 !use callpot2
 !use callpot3 
 implicit none
-real*8, parameter :: pi=acos(-1.0d0)
 real*8 :: rcn, rco, rno, v
 real*8, dimension(:) :: dvdr(3), r(3)
 
